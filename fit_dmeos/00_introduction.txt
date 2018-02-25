@@ -1,6 +1,7 @@
 In this series of tutorial, I will demonstrate how to use CREN ROOT package 
 to do fitting. And the following is the structure of this series.
 For gaus + bg, or double gaus + bg, one can use ROOTSCOPE to fit.
+(https://www.youtube.com/watch?v=TWnbxetz4A8)
 
 
 File description
@@ -11,7 +12,7 @@ it covers the most common case, in which we store our data in
 a TGraph (or a TH1) object, and we invoke TGraph::Fit to do the fitting.
 We also demo a generic method to set the TF1 object. 
 We also show some basic options to set up fitting ( SetParLimits, FixParameter )
-
+(https://www.youtube.com/watch?v=IXqYmD4piAA)
 ===============================================================================
 
     _02_setup_TF1.C
@@ -21,8 +22,7 @@ it covers alternative ways to setup TF1 objects.
 (2) by inline method by [0], [1], [2], ... 
 (3) by a method from a class
 (4) by a lambda function.
-
-
+(https://www.youtube.com/watch?v=VWA_5KfizxM)
 ===============================================================================
 
     _03_fit_2D.C
@@ -40,8 +40,7 @@ There is no TGraph3D class yet ( but we have TH3 class). So to fit 3 variables
 v=v(x,y,z) case, will use somewhat different method. One can use more general 
 TMinuit or use the tools provided in the ROOT::Fit (namespace). Here is a demo
 by the latter one. we will use use BinData, WrappedMultiTF1, Fitter, and FitResult.
-
-
+(https://www.youtube.com/watch?v=dfbKNe83Wh8)
 ===============================================================================
 
     _05_Minuit_part1.C
@@ -50,17 +49,22 @@ by the latter one. we will use use BinData, WrappedMultiTF1, Fitter, and FitResu
 
 First, we revisit a single Gaussian fit by using TMinuit class.
 Then in the part2, we fit a v=v(x0,x1,x2,x3) function.
-
+(https://www.youtube.com/watch?v=ReENiA3srBk&t)
+(https://www.youtube.com/watch?v=dTyWtrNLq_w)
 ===============================================================================
 
     _06_multiDimFit.C
 
 This script follows multidimfit.C in $ROOTSYS/tutorial/fit/ 
 we will demo the basic concept and operations of TMultiDimFit class.
-
+(https://www.youtube.com/watch?v=K_N4fBoBDuk)
 
 ===============================================================================
 
 for artificial neural network by TMultiLayerPerceptron and TMLPAnalyzer,
 please refer to the previous video at
 https://www.youtube.com/watch?v=WhzduU9ZXgo
+
+
+
+
