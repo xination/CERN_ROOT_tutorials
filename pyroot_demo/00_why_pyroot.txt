@@ -33,3 +33,9 @@ see my previous tutorial at
 https://www.youtube.com/watch?v=3cVrIjsZ_sk
 
 (2) iPython installation
+
+youtuble video list:
+pyroot tutorial 00 -- introduction (https://www.youtube.com/watch?v=g3QT3-VqhtU)
+pyroot tutorial 01 -- Basic 1D histogram, global objects, styles (https://www.youtube.com/watch?v=g3QT3-VqhtU )
+pyroot tutorial 01 (continue) -- Basic Fit (https://www.youtube.com/watch?v=PNlxE_Ikj1c)
+pyroot tutorial 02 -- Basic tree operation (Fill, show, Scan, Draw) ( https://www.youtube.com/watch?v=0wMbjYrtVk0&t )
