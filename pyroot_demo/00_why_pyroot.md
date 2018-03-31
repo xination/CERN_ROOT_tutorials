@@ -3,7 +3,7 @@ Why learning PyROOT ?<br>
 
 1.  in general, Python is easier to learn than C++ for a beginner.<br>
     and code also shorter and cleaner.<br>
-    Python provides very nice build in function, ex. range()<br>
+    Python provides very nice build-in functions, ex. range()<br>
     iPython is another reason.<br>
 
 2.  PyROOT's syntax is very similar to ROOT's. <br>
