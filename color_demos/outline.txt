@@ -1,0 +1,19 @@
+Outline for this color tutorial series
+
+
+1. _01_customized_color.C / _01_customized_color.py
+   ==> to define a customized color by r,g,b values.
+
+2. _02_built_in_color.py
+   a) built-in 50 colors
+   b) 15 named colors
+   c) color wheel
+
+3. _03_contour.py
+    a) number of levels for a contour plot
+    b) non-equal divided contour plot
+    c) customized palette
+
+application: 
+plot_nuclear_chart.py (script)
+nuData.pickle (data)
